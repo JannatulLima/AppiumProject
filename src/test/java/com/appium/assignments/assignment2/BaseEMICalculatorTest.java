@@ -11,7 +11,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.time.Duration;
 
-public class BaseEMICalculatorTest {
+public abstract class BaseEMICalculatorTest {
     protected static AndroidDriver driver;
     protected static WebDriverWait wait;
     @BeforeClass
