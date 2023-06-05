@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="EMI Calculator">
-    <test verbose="2" preserve-order="true" name="Executing Tests By Class Name">
+    <test verbose="2" preserve-order="true" name="Executing Tests By Class Names">
 <classes>
     <class name="com.appium.assignments.assignment2.testcases.LandingPageTest"></class>
     <class name="com.appium.assignments.assignment2.testcases.EMICalculatorPageTest"></class>
